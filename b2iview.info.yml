@@ -1,0 +1,9 @@
+name: 'B2i View'
+type: module
+description: 'Module pour un filtre personnalisé de Vue.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - drupal:views
+version: '1.0'
+project: 'b2iview'

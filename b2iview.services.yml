@@ -1,0 +1,5 @@
+services:
+  views.argument.b2i_custom_argument:
+    class: Drupal\b2iview\Plugin\views\argument\B2iCustomArgument
+    tags:
+      - { name: views.argument }
